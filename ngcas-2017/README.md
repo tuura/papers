@@ -1,6 +1,6 @@
 # Asynchronous Arbitration Primitives for New Generation of Circuits and Systems
 
-Presented at New Generation of Circuits and Systems Conference (NGCAS), 2017.
+Presented at the New Generation of Circuits and Systems Conference (NGCAS), 2017.
 
 ## Abstract
 
