@@ -1,6 +1,6 @@
 # Language and Hardware Acceleration Backend for Graph Processing
 
-Presented at the Forum on specification & Design Languages (FDL) 2017
+Presented at the Forum on specification & Design Languages (FDL), 2017.
 
 ## Abstract
 
@@ -21,4 +21,4 @@ analysed up to 1000x faster than on a conventional computer.
 
 ## Implementation
 
-See https://github.com/tuura/centrifuge.
+See https://github.com/tuura/fantasi and https://github.com/tuura/centrifuge.
