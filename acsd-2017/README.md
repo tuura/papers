@@ -1,4 +1,4 @@
-# Process Windows
+# I. Process Windows
 
 Presented at the International Conference on Application of Concurrency to System Design, 2017.
 
@@ -22,3 +22,17 @@ or _wake up_, after another window has become inactive. The
 corresponding _wake-up conditions_ and _wake-up markings_
 can be derived automatically.
 
+# II. Reduction of Order Structures
+
+Presented at the International Conference on Application of Concurrency to System Design, 2017.
+
+## Abstract
+
+Relational order structures are used to describe and investigate properties of concurrent systems.
+To reduce the complexity of order structures, one typically considers only their essential components,
+which, in the case of partial orders, leads to the notion of Hasse diagrams. We lift this notion to
+the level of generalised mutex order structures, which are used to model not only causal dependencies
+but also weak causality and mutual exclusion. We provide a new and more concise axiomatic definition of
+these structures, investigate their important properties, and present efficient algorithms for computing
+their _reduction_ and _closure_. The algorithms are implemented in a publicly available software tool
+with graphical user interface.
