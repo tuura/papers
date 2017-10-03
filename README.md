@@ -14,4 +14,5 @@
 [slides](https://github.com/tuura/papers/blob/master/acsd-2017/process-windows-slides.pdf)]
 
 * Łukasz Mikulski, Andrey Mokhov, Marcin Piatkowski. _Reduction of Order Structures_. International Conference on Application of Concurrency to System Design (ACSD), 2017.
-[[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf)]
+[[paper](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures.pdf),
+[slides](https://github.com/tuura/papers/blob/master/acsd-2017/order-structures-slides.pdf)]
