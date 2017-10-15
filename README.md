@@ -4,6 +4,10 @@
 [[paper](https://github.com/tuura/papers/blob/master/fdl-2017/graphs-on-fpga.pdf),
 [slides](https://github.com/tuura/papers/blob/master/fdl-2017/graphs-on-fpga-slides.pdf)]
 
+
+* Andrew Brown, David Thomas, Jeff Reeve, Ghaith Tarawneh, Alessandro de Gennaro, Andrey Mokhov, Matthew Naylor, Tom Kazmierski. _Distributed Event-based Computing_. ParCo conference, 2017.
+[[paper](https://github.com/tuura/papers/blob/master/parco-2017/distributed-event-based-computing.pdf)]
+
 * Andrey Mokhov. _Algebraic Graphs with Class_. ACM SIGPLAN International Symposium on Haskell, 2017.
 [[paper](https://github.com/snowleopard/alga-paper),
 [slides](https://github.com/snowleopard/alga-paper/releases/download/final/algebraic-graphs-slides.pdf)]
