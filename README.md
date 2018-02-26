@@ -1,7 +1,11 @@
 # Tuura papers
 
+## 2018
+
 * Danil Sokolov, Alessandro de Gennaro, Andrey Mokhov. _Reconfigurable Asynchronous Pipelines: from Formal Models to Silicon_. Design, Automation and Test in Europe (DATE) conference, 2018.
 [[paper](https://github.com/tuura/papers/blob/master/date-2018/dataflow.pdf)]
+
+## 2017
 
 * Andrey Mokhov, Alessandro de Gennaro, Ghaith Tarawneh, Jonny Wray, Georgy Lukyanov, Sergey Mileiko, Joe Scott, Alex Yakovlev, Andrew Brown. _Language and Hardware Acceleration Backend for Graph Processing_. Forum on specification & Design Languages (FDL), 2017.
 [[paper](https://github.com/tuura/papers/blob/master/fdl-2017/graphs-on-fpga.pdf),
